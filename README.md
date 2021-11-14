@@ -9,8 +9,17 @@ M. Lee, Y. Xiong, G. Yu, and G. Y. Li, “Deep neural networks for linear sum as
 
 ## Training
 
-Run "hung_train.py"
+```
+python hung_train.py
+```
 
 ## Testing
 
-Run "hung_eval.py"
+```
+python hung_eval.py
+````
+
+## Notes
+
+This repository contains the code for CNN based method for $n=4$. The code for other setting is similar and one can reproduce it by himself/herself.
+
